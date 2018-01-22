@@ -45,7 +45,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 url: 'https://damiendoylephotography.com'
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f2ed89-4ee5-44c9-9d19-50cbb3d9d000.png
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddba9512-65b6-45ee-8848-a3792b07c0a1.png
 title: Damien Doyle Photography
