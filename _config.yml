@@ -1,5 +1,6 @@
-layout_spectrum: 0.23921580547669738
 typography_spectrum: 0.13345790308743422
+content_rating:
+  adult: false
 color:
   lightness: 0.19843619393867137
   brandColors:
@@ -11,10 +12,9 @@ color:
   saturation: 0.8344172939470978
   brandStrength: 0.8832892590734444
   rhythmicContrast: 0.8093708669324176
-content_rating:
-  adult: false
 github: true
 opengraph: {}
+layout_spectrum: 0.23921580547669738
 analytics: {}
 author:
   name: Damien
@@ -37,6 +37,9 @@ navigation:
     type: content
   - name: Aerial
     id: ddffd04a-ec21-4977-b873-7c1b1a19d74c
+    type: content
+  - name: Events
+    id: f1c04f68-7814-4cfb-b0ba-6770adac65a8
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddba9512-65b6-45ee-8848-a3792b07c0a1.png
