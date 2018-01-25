@@ -35,6 +35,9 @@ navigation:
   - name: Landscape
     id: 85b38c2b-3004-490e-9967-8b64804fe49c
     type: content
+  - name: Aerial
+    id: ddffd04a-ec21-4977-b873-7c1b1a19d74c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddba9512-65b6-45ee-8848-a3792b07c0a1.png
 collections:
