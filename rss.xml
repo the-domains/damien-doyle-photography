@@ -4,9 +4,16 @@
         <description><![CDATA[Damien Doyle Photography]]></description>
         <link>http://damiendoylephotography.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Jan 2018 18:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2018 18:40:33 GMT</lastBuildDate>
         <atom:link href="http://damiendoylephotography.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jan 2018 18:40:09 GMT</pubDate>
+        <pubDate>Thu, 25 Jan 2018 18:40:32 GMT</pubDate>
+        <item>
+            <title><![CDATA[Events]]></title>
+            <description><![CDATA[<h1>Events</h1>]]></description>
+            <link>http://damiendoylephotography.com/events/index.html</link>
+            <guid isPermaLink="false">f1c04f68-7814-4cfb-b0ba-6770adac65a8</guid>
+            <pubDate>Thu, 25 Jan 2018 18:39:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Aerial]]></title>
             <description><![CDATA[<h1>Aerial</h1>]]></description>
