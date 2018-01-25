@@ -1,6 +1,29 @@
-name: Photography Services
-analytics: {}
+typography_spectrum: 0.0030261842824408033
+content_rating:
+  adult: false
+color:
+  lightness: 0.27765476040173287
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  saturation: 0.83507405693735
+  brandStrength: 0.8873384717521765
+  rhythmicContrast: 0.7835964104134848
 github: true
+opengraph: {}
+layout_spectrum: 0.4442129865995064
+analytics: {}
+author:
+  name: Damien
+  url: 'http://damiendoylephotography.com'
+  email: info@damiendoylephotography.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f2ed89-4ee5-44c9-9d19-50cbb3d9d000.png
+name: Photography Services
+url: 'https://damiendoylephotography.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -8,10 +31,12 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author:
-  name: Damien
-  url: 'http://damiendoylephotography.com'
-  email: info@damiendoylephotography.com
+navigation:
+  - name: Landscape
+    id: 85b38c2b-3004-490e-9967-8b64804fe49c
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddba9512-65b6-45ee-8848-a3792b07c0a1.png
 collections:
   - index:
       path: /
@@ -24,6 +49,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Damien Doyle Photography
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -33,42 +59,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/50bfead9-d8a9-4feb-a102-3da830cda45e.jpg
     metadata:
-      author: []
       datePublished: null
       keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.4442129865995064
-color:
-  lightness: 0.27765476040173287
-  brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-  saturation: 0.83507405693735
-  brandStrength: 0.8873384717521765
-  rhythmicContrast: 0.7835964104134848
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddba9512-65b6-45ee-8848-a3792b07c0a1.png
-content_rating:
-  adult: false
-typography_spectrum: 0.0030261842824408033
-opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f2ed89-4ee5-44c9-9d19-50cbb3d9d000.png
-title: Damien Doyle Photography
-url: 'https://damiendoylephotography.com'
 description: Capture the Moment
