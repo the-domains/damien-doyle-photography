@@ -86,3 +86,6 @@ purpose:
   - type: contact
     url: 'tel:018379787'
     label: Call 018379787
+  - type: contact
+    url: 'mailto:info@damiendoylephotography.com'
+    label: Email Me
