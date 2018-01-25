@@ -1,20 +1,20 @@
-typography_spectrum: 0.0030261842824408033
-content_rating:
-  adult: false
+layout_spectrum: 0.23921580547669738
+typography_spectrum: 0.13345790308743422
 color:
-  lightness: 0.27765476040173287
+  lightness: 0.19843619393867137
   brandColors:
     - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-  saturation: 0.83507405693735
-  brandStrength: 0.8873384717521765
-  rhythmicContrast: 0.7835964104134848
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+  saturation: 0.8344172939470978
+  brandStrength: 0.8832892590734444
+  rhythmicContrast: 0.8093708669324176
+content_rating:
+  adult: false
 github: true
 opengraph: {}
-layout_spectrum: 0.4442129865995064
 analytics: {}
 author:
   name: Damien
