@@ -41,6 +41,9 @@ navigation:
   - name: Events
     id: f1c04f68-7814-4cfb-b0ba-6770adac65a8
     type: content
+  - name: Products
+    id: 07864cbf-8b58-471e-a8f2-a6ef1151e3eb
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddba9512-65b6-45ee-8848-a3792b07c0a1.png
 collections:
