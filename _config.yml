@@ -82,3 +82,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Capture the Moment
+purpose:
+  - type: contact
+    url: 'tel:018379787'
+    label: Call 018379787
