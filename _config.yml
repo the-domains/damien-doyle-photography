@@ -1,16 +1,6 @@
-layout_spectrum: 0.4442129865995064
-typography_spectrum: 0.003026184282440803
-color:
-  brandStrength: 0.8873384717521765
-  lightness: 0.27765476040173287
-  saturation: 0.83507405693735
-  rhythmicContrast: 0.7835964104134848
-  brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+name: Photography Services
+analytics: {}
+github: true
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +8,19 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Damien Doyle Photography
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -29,26 +31,40 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/50bfead9-d8a9-4feb-a102-3da830cda45e.jpg
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-url: 'https://damiendoylephotography.com'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f2ed89-4ee5-44c9-9d19-50cbb3d9d000.png
+layout_spectrum: 0.4442129865995064
+color:
+  lightness: 0.27765476040173287
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  saturation: 0.83507405693735
+  brandStrength: 0.8873384717521765
+  rhythmicContrast: 0.7835964104134848
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddba9512-65b6-45ee-8848-a3792b07c0a1.png
+content_rating:
+  adult: false
+typography_spectrum: 0.0030261842824408033
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f2ed89-4ee5-44c9-9d19-50cbb3d9d000.png
 title: Photography Services
-description: ''
-github: true
+url: 'https://damiendoylephotography.com'
