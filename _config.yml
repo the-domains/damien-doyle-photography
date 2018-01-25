@@ -32,11 +32,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Landscape
-    id: 85b38c2b-3004-490e-9967-8b64804fe49c
-    type: content
   - name: Aerial
     id: ddffd04a-ec21-4977-b873-7c1b1a19d74c
+    type: content
+  - name: Landscape
+    id: 85b38c2b-3004-490e-9967-8b64804fe49c
     type: content
   - name: Events
     id: f1c04f68-7814-4cfb-b0ba-6770adac65a8
